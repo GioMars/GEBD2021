@@ -1,4 +1,4 @@
-# GraphSpark
+# GEBD2021
 
 *Questo è un progetto per grafi.* Questo non è più in corsivo. 
 
