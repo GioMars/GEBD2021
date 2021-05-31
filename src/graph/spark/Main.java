@@ -169,5 +169,6 @@ public class Main {
 		GraphFrame grafo2 = new GraphFrame(vertici2, archi2);
 		grafo2.degrees().show();
 		
+		
 	}
 }
